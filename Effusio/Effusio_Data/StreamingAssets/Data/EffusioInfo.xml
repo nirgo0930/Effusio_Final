@@ -1,0 +1,7 @@
+<EffusioList>
+  <Info id="BossRino" coolTime="10" />
+  <Info id="Bringer" coolTime="10" />
+  <Info id="GrandFire" coolTime="10" />
+  <Info id="Samurai" coolTime="10" />
+  <Info id="Empty" coolTime="0" />
+</EffusioList>

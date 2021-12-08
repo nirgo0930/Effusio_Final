@@ -1,0 +1,7 @@
+<Advent>
+  <Info id="Empty" point="0" skilltype="Empty" skillDelay="0" skillCoolTime="0" />
+  <Info id="Heal" point="3" skilltype="Heal" skillDelay="0.5" skillCoolTime="40" />
+  <Info id="Shield" point="5" skilltype="Guard" skillDelay="0.3" skillCoolTime="15" />
+  <Info id="Fireball" point="10" skilltype="Shot" skillDelay="0.1" skillCoolTime="10" />
+  <Info id="ZombieGrasp" point="10" skilltype="Summon" skillDelay="0.1" skillCoolTime="30" />
+</Advent>

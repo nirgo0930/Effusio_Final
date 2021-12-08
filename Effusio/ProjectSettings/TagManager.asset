@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - EnemyHitBox
+  - Enemy
+  - Ground
+  - Wall
+  - Projectile
+  - Summon
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - background
+  - Water
+  - UI
+  - 
+  - Summon
+  - Enemy
+  - EnemyHitbox
+  - Player
+  - PlayerAttacked
+  - Wall
+  - Ground
+  - minimap
+  - 
+  - 
+  - 
+  - 
+  - 
+  - Projectile
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: front
+    uniqueID: 1263017581
+    locked: 0
